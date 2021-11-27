@@ -1,0 +1,6 @@
+while(no success)
+{
+tryagain();
+if(dead)
+break;
+}
