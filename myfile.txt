@@ -4,3 +4,10 @@ tryagain();
 if(dead)
 break;
 }
+
+while (alive)
+{
+eat();
+sleep();
+code();
+}
