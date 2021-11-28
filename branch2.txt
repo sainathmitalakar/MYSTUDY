@@ -1,2 +1,2 @@
-The most powerfull tool we have as developers 
-is automation.
+If you automate a mess
+you get an autometed mess
