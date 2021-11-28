@@ -1,0 +1,28 @@
+pull operations 
+
+change directory first
+
+git init
+
+git remote add origin  <git hub url id>
+
+git pull -u origin master
+
+git log
+
+git show <id>
+
+add some code in file save and next
+
+git status
+
+git add .
+
+giyt commit -m "my second lab is done"
+
+git status
+
+git log
+
+git push -u origin master
+
