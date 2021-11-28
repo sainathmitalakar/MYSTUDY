@@ -1,2 +1,4 @@
 If you automate a mess,
-you will get an automated mess
+
+you get an automated mess
+
