@@ -1,0 +1,29 @@
+How to add,commit in Git ?
+
+------->
+creat one directory and go in side it  and change the directory
+
+cd
+
+git init
+
+touch file1.txt (put some data in it )
+
+git status
+
+git add .
+
+git commit -m "my first commit from nashik"
+
+git status
+
+git log
+
+git show .......... ( ids some starting letter)
+
+git remote add origin <centrlized url)
+
+git push -u origin master.
+
+...........................................................................................thank you ! .
+
