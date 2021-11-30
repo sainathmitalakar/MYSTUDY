@@ -1,0 +1,14 @@
+create a branch 
+
+..................>
+
+git init
+
+git remote add origin <centrlized origin>
+
+git branch (for checking current working branch)
+
+git branch <branch name> --------->  create a new branch
+
+git checkout <branch name> ......to witch in another branch
+
