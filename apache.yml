@@ -14,11 +14,11 @@
 
       state: present
 
-  - name: copying the Index.html
+  - name: copying the index.html
 
     copy:
 
-      src: Index.html
+      src: index.html
 
       dest: /var/www/html/
 
