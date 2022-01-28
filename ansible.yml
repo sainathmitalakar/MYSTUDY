@@ -6,9 +6,9 @@
     yum:
       name: httpd
       state: present
-  - name: copying the index.html
+  - name: copying the Index.html
     copy:
-      src: index.html
+      src: Index.html
       dest: /var/www/html/
   - name: Starting Apache
     service:
